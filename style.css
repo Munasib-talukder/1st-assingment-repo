@@ -1,0 +1,185 @@
+.open-sans-normal {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+/* Navbar Section */
+.headerone {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    font-weight: bold;
+    color: blue;
+}
+
+.upup {
+    border-radius: 12px;
+    padding: 10px;
+    background-color: blue;
+    text-emphasis-color: white;
+
+}
+
+.butwo {
+    align-items: top;
+    margin: 00px;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: blue;
+    text-emphasis-color: white;
+
+
+}
+
+.singup {
+    color: blue;
+    list-style: none;
+}
+
+.cooll {
+    font-weight: bold;
+    align-items: center;
+    margin-left: 250px;
+    height: 20px;
+}
+
+.hbu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.bcimg {
+    background-image: url(./Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+}
+
+/* Main style */
+.sectionone {
+    display: flex;
+    margin: 200px;
+    gap: 500px;
+}
+
+.imgone {
+    border-radius: 20px;
+}
+
+.shdidi {
+    background-color: rgb(195, 205, 205);
+    align-items: center;
+    justify-content: center;
+    margin: 300px;
+    height: 200px;
+    width: 900px;
+    border-radius: 20px;
+}
+
+.km {
+    color: blue;
+    font-size: 40px;
+
+}
+
+.didi {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+/* mmmmmmm */
+.dimdim {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.imimim {
+    background-color: aliceblue;
+    padding: 20px;
+
+}
+
+.popo {
+    display: flex;
+    gap: 20px;
+}
+
+.lolo {
+    border-radius: 360px;
+}
+
+.booll {
+    margin: 50px 600px;
+    align-items: center;
+    text-overflow: 200px;
+}
+
+/* nnnnnnnn */
+.lobo {
+    align-items: center;
+    margin: 100px 600px;
+}
+
+.lol {}
+
+
+.bol {
+
+    align-items: top;
+    margin: 00px;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: blue;
+    text-emphasis-color: white;
+}
+
+.wcb {
+    align-items: center;
+    margin: 0px 400px;
+    border-radius: 20px;
+}
+
+.lolowc {
+    background-color: aliceblue;
+    margin: 20px 30px;
+}
+
+/* ffffff */
+.fufu {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 230px;
+    padding: 50px;
+
+}
+
+/* footer */
+.borologo {
+    color: blue;
+    font-size: 80px;
+    margin: 30px 600px;
+}
+
+.ppfofo {
+    margin: 10px 600px;
+}
+
+.difofo {
+    margin: 10px 600px;
+    justify-content: space-around;
+}
+
+
+.fofotr {
+    background-color: rgb(178, 210, 210);
+    margin: 30px 50px;
+}
